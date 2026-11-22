@@ -1,81 +1,37 @@
-# 👋 Hello, I'm Pooja!
+# Pooja R
 
-### 🎓 B.E. Cyber Security Student | Aspiring Cybersecurity Professional | Technology Enthusiast
+### B.E. Cyber Security Student | Technology Enthusiast
 
-Welcome to my GitHub profile! I'm Pooja, an enthusiastic and curious learner currently pursuing **B.E. Cyber Security**. I have a strong interest in technology, programming, information security, and exploring how digital systems work.
+Welcome to my GitHub! 👋
 
-I believe that learning is a continuous journey, and every new challenge is an opportunity to improve my knowledge and abilities. I'm passionate about developing technical skills, experimenting with new ideas, and gaining practical experience through projects and hands-on learning.
+I'm Pooja, a B.E. Cyber Security student at St. Joseph's College of Engineering. I'm passionate about technology, cybersecurity, and programming.
 
----
+I enjoy exploring new technologies, learning how digital systems work, and developing my technical skills through continuous practice and hands-on projects.
 
-## 👩‍💻 About Me
+### About Me
 
-- 🎓 Currently pursuing **B.E. Cyber Security**.
-- 🔐 Interested in Cybersecurity, Information Security, and Network Security.
-- 💻 Developing my programming skills in C and Python.
-- 🌐 Exploring the fundamentals of computer networks and system security.
-- 🛡️ Interested in understanding security threats and digital protection.
-- 🚀 Enjoy learning new technologies and working on innovative ideas.
-- 📚 Continuously improving my technical, analytical, and problem-solving skills.
-- 🤝 Believe in teamwork, communication, creativity, and continuous learning.
+- 🎓 B.E. Cyber Security Student
+- 💻 Learning C and Python
+- 🔐 Interested in Cybersecurity and Network Security
+- 🌱 Exploring Ethical Hacking and Information Security
+- 🚀 Passionate about learning and building new things
 
-## 💡 Areas of Interest
+### Technologies & Tools
 
-- **Cybersecurity:** Understanding digital security, vulnerabilities, and security practices.
-- **Ethical Hacking:** Exploring ethical security testing concepts and techniques.
-- **Network Security:** Learning how computer networks are protected.
-- **Programming:** Developing logical thinking and problem-solving abilities.
-- **Information Security:** Understanding how information and digital assets can be protected.
-- **Technology:** Exploring emerging technologies and their real-world applications.
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- C Programming
+- C
 - Python
+- Git
+- GitHub
+- VS Code
 
+### Interests
 
+Cybersecurity · Programming · Network Security · Technology · Innovation
 
+### My Goal
 
-
-## 🎯 Career Goals
-
-My goal is to become a skilled cybersecurity professional with strong technical knowledge and practical experience.
-
-I aim to:
-- Develop expertise in cybersecurity and information security.
-- Gain hands-on experience through real-world projects.
-- Improve my programming and technical problem-solving abilities.
-- Explore advanced cybersecurity concepts and tools.
-- Earn relevant certifications and expand my knowledge.
-- Contribute to building safer and more secure digital environments.
-
-## 🌱 Currently Learning
-
-- Python Programming
-- C Programming
-- Cybersecurity Fundamentals
-- Network Security
-- Ethical Hacking Concepts
-- Git and GitHub
-
-
-## 📌 What You'll Find Here
-
-This GitHub profile is a space where I document my learning journey, share programming practices, explore technical concepts, and showcase my projects.
-
-As I continue learning and growing, I look forward to building more projects, improving my technical abilities, and sharing my progress with the developer community.
-
-## 📫 Let's Connect!
-
-I'm always interested in learning, sharing knowledge, and connecting with people who are passionate about technology.
-
-**GitHub:** (https://github.com/poojaraja1388-collab)
+To continuously learn, improve my technical abilities, gain practical experience, and grow into a skilled cybersecurity professional.
 
 ---
 
-### ✨ My Motto
-
-*"Dream big, stay curious, keep learning, and never stop improving."*
-
-**Thank you for visiting my profile! Happy Coding! 💻🔐**
+*Learning something new every day. Building a better tomorrow.* ✨
