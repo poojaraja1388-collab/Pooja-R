@@ -34,28 +34,9 @@ I believe that learning is a continuous journey, and every new challenge is an o
 - C Programming
 - Python
 
-**Cybersecurity**
-- Cybersecurity Fundamentals
-- Information Security
-- Network Security Fundamentals
-- Ethical Hacking Concepts
 
-**Tools & Platforms**
-- Visual Studio Code
-- Git
-- GitHub
 
-## 📖 My Learning Journey
 
-As a Cyber Security student, I'm building my foundation step by step through academic learning, programming practice, online courses, and practical activities.
-
-My learning journey focuses on:
-- Strengthening programming fundamentals.
-- Understanding computer networks and security concepts.
-- Exploring cybersecurity tools and technologies.
-- Practising logical thinking and problem-solving.
-- Applying theoretical knowledge to practical projects.
-- Staying updated with new developments in technology.
 
 ## 🎯 Career Goals
 
@@ -78,14 +59,6 @@ I aim to:
 - Ethical Hacking Concepts
 - Git and GitHub
 
-## 🌟 Personal Strengths
-
-- Quick Learner
-- Creative Thinker
-- Problem-Solving Mindset
-- Adaptability
-- Teamwork and Collaboration
-- Willingness to Learn New Things
 
 ## 📌 What You'll Find Here
 
